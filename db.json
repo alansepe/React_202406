@@ -1,0 +1,106 @@
+{
+  "user": [
+    {
+      "name": "John",
+      "email": "john@example.com",
+      "phone": "(555) 555-1234",
+      "id": "1"
+    },
+    {
+      "name": "Mary",
+      "email": "\tmary@example.com",
+      "phone": "(555) 555-1234",
+      "id": "2"
+    },
+    {
+      "name": "Dooley",
+      "email": "july@example.com",
+      "phone": "(555) 555-8521",
+      "id": "3"
+    },
+    {
+      "name": "Moe",
+      "email": "Moe@example.com",
+      "phone": "(555) 555-7410",
+      "id": "4"
+    },
+    {
+      "name": "Doe",
+      "email": "Doe@example.com",
+      "phone": "(555) 555-7896",
+      "id": "5"
+    },
+    {
+      "name": "Delfin",
+      "email": "del@gmail.com",
+      "phone": "0988-871-2122",
+      "id": "6"
+    },
+    {
+      "name": "JECJEC",
+      "email": "jgungob@gmail.com",
+      "phone": "0917-322-1988",
+      "id": "7"
+    },
+    {
+      "name": "ARMAND",
+      "email": "armand@gmail.com",
+      "phone": "0920-721-2122",
+      "id": "8"
+    },
+    {
+      "name": "ANDOT",
+      "email": "adot@gmail.com",
+      "phone": "0912-432-1233",
+      "id": "9"
+    },
+    {
+      "name": "LENDON",
+      "email": "lendy@gmail.com",
+      "phone": "0912-432-1245",
+      "id": "10"
+    },
+    {
+      "name": "ALVAREZ",
+      "email": "alv@gmail.com",
+      "phone": "0914-412-1233",
+      "id": "11"
+    },
+    {
+      "name": "RICHARD",
+      "email": "RICH@gmail.com",
+      "phone": "0914-712-1233",
+      "id": "12"
+    },
+    {
+      "name": "CHELITO",
+      "email": "chel@gmail.com",
+      "phone": "0916-412-7233",
+      "id": "13"
+    },
+    {
+      "name": "JONAR",
+      "email": "jonar@gmail.com",
+      "phone": "0914-812-5233",
+      "id": "14"
+    },
+    {
+      "name": "TABULONG",
+      "email": "tabul@yahoo.com",
+      "phone": "0912-612-1233",
+      "id": "15"
+    },
+    {
+      "name": "Elvira",
+      "email": "elv@gmail.com",
+      "phone": "0916-489-1833",
+      "id": "16"
+    },
+    {
+      "name": "Libat",
+      "email": "lib@gmail.com",
+      "phone": "0919-239-1833",
+      "id": "17"
+    }
+  ]
+}
